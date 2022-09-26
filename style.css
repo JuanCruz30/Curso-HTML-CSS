@@ -1,0 +1,12 @@
+div{background-color: #0ff;}
+
+h2{color: #f00;}
+
+img{width: 500px;
+    border-radius: 50%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: green;
+}
+
+a{color: #00f;}
